@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ali GÖKTAŞ (@aligoktas151) :)
+- 👋 Hi, I’m Ali GÖKTAŞ (@gokt.as79) :)
 - 👀 I’m interested in Software and new techonologies.
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
