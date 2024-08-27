@@ -11,6 +11,4 @@ Made with HTML, CSS and HTML5 CSS3.
 <h2>Screenshot</h2>
 
 ![](screen.gif) 
-# newprojects
-# newprojects
-# newprojects
+
