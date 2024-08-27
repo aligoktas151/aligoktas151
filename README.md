@@ -8,7 +8,7 @@ interaction between students and teachers. It makes learning enjoyable. :)
 
 Made with HTML, CSS and HTML5 CSS3.
 
-<h2>Screenshot</h2>
+<h2>Screen.gif</h2>
 
 ![](screen.gif) 
 
