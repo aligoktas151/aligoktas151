@@ -1,0 +1,277 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');/* kaynak:https://fonts.google.com/selection/embed ögeyi kopyala ve baştaki ve sondaki <style> etiketlerini sil */ 
+/*   font-family: "Poppins", sans-serif; */
+/* font-family: "Roboto", sans-serif; */
+ 
+ 
+ 
+ /* css sıfırlaması */
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    /*    elemanların KAPSAYICI DIŞINA TAŞMASINI ÖNLER.!!!  bu özellik genelde SÖZLÜ MÜLAKATLARDA ÇOKÇA ÇIKAR!!!BİLGİNİZEEE */ 
+   /*  font-family: "Poppins", sans-serif;body yani tüm sayfanın her(*) yazısı poppins fontunda olsun   de yapabiliriz. */
+ }
+ 
+ /* Css Ortak Yapılar */
+ body{
+    font-family: "Poppins", sans-serif;/* tüm yazılar bu fontta olsun */
+ }
+ h1{
+    font-family: "Roboto", sans-serif;
+ }
+.align-box{
+    width: 80%;
+    margin: auto; /* sağdan soldan otomatik genişlik ver */
+
+    text-align:center;/* yazıları ortala */
+    padding: 100px; 
+}
+.align-col{
+ flex-basis: 30%;/* kendini kapsayıcıdanbaşlangıç genişliği ve yüksekliğini belirlemeye yarar 30% içeri atar */   
+ margin-bottom: 5%;/* alttan 5% DIŞ BOŞLUK */
+ box-sizing: border-box;/* elemanların KAPSAYICI DIŞINA TAŞMASINI ÖNLER.!!! */
+ border-radius: 5px;
+}
+ /* header css */
+ .header{
+    min-height: 100vh;
+/* minimum yükseklik belirler. vh ise açılır pencerenin 100%ü demektir.*/
+
+  background:linear-gradient(rgba(5,10,30,0.7),rgba(5,10,30,0.7)), url(./bg.webp); /* arkaplana resim ekleme */
+  background-size: cover;/* resim arkaplanı kaplasın */
+  background-position: center;/* arkaplan rengini tam ortala */
+  /* linear-gradient() 2 renk arası geçiş yapmayı sağlar */
+
+
+}
+
+ .nav{
+display: flex;   /* YATAY YÖNDE yan yana getir */
+align-items: center;     /* tüm elemanları DİKEY YÖNDE yan yana getir */
+justify-content:space-between;  /* justify: aralarını açabilmek için  space btween EN SAĞA EN SOLA YASLA*/
+padding: 2% 6%; /* YUKARIDAN AŞAĞIDAN 2% SAĞDAN SOLDAN 6% KADAR iç boşluk ver. */ 
+}
+.nav a img{
+    width: 150px;   /* nav içindeki a içindeki img etiketi genişlik 150px olsun */
+}
+ .nav-links{
+    /* background-color: red; arkaplan rengi kırmızı olsun. */
+    flex: 1; /* var olan tüm satırı kapla
+    sağa sola boşluk ver ve KALAN TÜM ALANI KAPLA MÜLAKAT SORULARI. */
+ }
+ .nav-links ul li{
+   /*  background: linear-gradient(to right,red,blue);farklı bir kullanım soldan sağa doğru */
+list-style: none; /* listeleme yapısını kaldır */
+display: inline-block; /* elemanları AYNI SATIR İÇERİSİNDE BLOCK ELEMAN ÖZELLİĞİNDE KULLANILMASINI SAĞLAR. */
+float: right; /* sağa yaslama özelliği */ 
+padding: 8px 12px;
+ }
+
+ .nav-links ul li a::after{
+content: '';/* content: 'Yazılım'; her bir a etiketli eleman için A ETİKETİNDEN SONRA 'Yazılım' yazısı geldi. */
+background-color: red;
+display: block;/* görünür olsun ve TÜM SATIRI KAPLA(BLOCK). */
+width: 0; /* genişlik */
+height: 2px;/* yükseklik */
+margin-top: 4px; /* yukarıdan 4px DIŞ BOŞLUK VER */
+ }
+.nav-links ul li a:hover::after{
+
+    width: 100%;
+    transition:0.3s;
+     /* slow motion ağır çekim  hareketi  yavaşlat*/
+
+    /*HOVER:BİR ELEMANIN ÜZERİNE FARE GELDİĞİNDE NE YAPAR? */
+    }
+ .menu{
+color: white;
+display: none;/*  :şimdilik gizli kalsın gözükmesin */
+font-size: 30px; 
+}
+.nav-links ul li a{
+text-decoration: none;/*  a href  köprü link etiketinin ALTI ÇİZİLİ ÖZELLİĞİNİ KALDIR. */
+font-size: 15px;/* yazı BÜYÜKlüğü :) */
+color: white; /* yazı rengi beyaz */
+}
+
+/* text-box kısmı */
+.text-box{
+  width: 90%;  /*bulunduğun satırın 90% ını kapla.   */
+ text-align: center; /* içeriği YAZIYI  TAM ORTA KISMA GETİR. */
+ position: absolute;/* pozisyonlama yap ve pozisyonunu YÖNLERLE BİLDİR. */
+ top: 50%;
+ left: 50%; /* tam ortaya gelmedi ÇÜNKÜ KAPSAYICI İÇİNDEKİ ELEMANIN  BORDERINDAN POZİSYONLAMA YAPIYOR.
+ ÇÖZÜM İSE TRANSFORM translate() ÖZELLİĞİ */
+ transform: translate(-50%,-50%);
+color: white;
+}
+.text-box h1{
+    font-size: 60px;/* yazı BÜYÜKlüğü */
+}
+.text-box{
+    margin: 10px 0px;    /* yukarı aşağıdan 10px sağdan soldan 0 px  DIŞ BOŞLUK bırak*/
+    font-size: 15px;
+}
+.hero-btn{
+    text-decoration: none; /* alt çizgisini sil. */
+     /* istersen buton olarak da yapabiliriz. */
+     color: white;
+     background-color: transparent; /* arkaplan rengi */
+     border: 1px solid white; /* 1px düz beyaz kenarlık border kullanımı: border: boyut tür renk */
+     padding: 10px 30px; /*  iç boşluk */
+     cursor: pointer;/* fareyle üzerine gelince el işareti çıkar */
+     display: inline-block;/* satır içinde bulunduğu alan kadar yer kaplasın özellikler */
+     margin-top:10px;
+     border-radius: 5px;/* 5px köşeleri yumuşat yuvarlaklaştır. */
+     transition:all 0.3s;/* yavaş geçiş  */
+}
+.hero-btn:hover:hover{
+    background-color: red; /* üzerine gelince arka plan kırmızı olsun  */
+    border-color:blue;
+    color: blue;
+}
+/* Course Alanı */
+.row{
+    margin-top: 5%;/* yukarıdan kendini 5% uzaklaştır dış boşluk */
+    display: flex;/* yan yana getir */
+    justify-content: space-between;/*  aralarını aç  */
+}
+.course-col{
+    background-color:antiquewhite;
+    padding: 20px 10px;
+    transition: all 0.3s;
+}
+.course-col:hover{
+box-shadow: 0 0 10px gray;  /* kutu gölgeliği x y ekseni 0 piksel ve 10px de gölge kenarlığı  */
+}
+/*   <!-- Campus Alanı --> */
+.campus-col{
+position: relative;/* kapsayıcıda relative(kapsayıcı dışına çıkmasın diye) kapsayıcı içindeki elemanlarda ABSOLUTE(hizalamak için de ) kullanılır. :) */
+overflow: hidden; /* kutu içerisindeki fazla elemanın görünmesini ve taşmaları engeller overflowda auto scroll çıkar  */
+background-color: aqua;
+/* The Author is https://github.com/aligoktas151 :) */
+}
+.campus-col img{
+    width: 100%;/* 100vh yükseklik için kullanılır. */
+    display: block;
+}
+.layer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    transition: all 0.3s;
+}
+.layer:hover{
+    background-color: rgba(200,52,15,0.5);
+}
+.layer h3{
+    font-weight: 500;
+    color: white;
+    font-size: 25px;
+    position: absolute;
+width: 100%;
+bottom: 0;
+transition: 0.3s;
+opacity: 0;/* görünürlük 0 var ama yok görünmez :) */
+}
+.layer:hover h3{
+    bottom: 50%;
+    opacity: 1;
+}
+/* Facilities Alanı */
+.facilities-col{
+    /* içeriği sola yasla  */
+    text-align: left;
+}
+.facilities-col img{
+    width: 100%;
+}
+/* Comments Alanı */
+.testemonials-col{
+background-color: antiquewhite;
+text-align: left;
+cursor: pointer;
+display: flex;
+flex-direction: column;
+padding: 10px;
+}
+.testemonials-col img{
+    height: 50px;
+    margin-left: 5px;
+    border-radius: 50%;
+}
+.testemonials-col div p{
+    padding: 0;
+}
+.testemonials-col h3{
+    margin-top: 15px;
+}
+.testemonials-col div .bi{
+    color: blue;
+}
+.testemonials-col div .bi:hover{
+    color: red;
+}
+/* Contact Alanı */
+
+.ua{ 
+    background: linear-gradient(rgba(5,10,30,0.7), rgba(5,10,30,0.7)), url(./london.jpeg);
+    background-position: center;
+  background-size: cover;
+ padding:  100px 0;
+ color:white;
+ margin: 50px auto;
+ border-radius: 10px;
+ text-transform: capitalize;
+}
+.ua h1{
+margin-bottom: 40px;
+padding: 0px;
+}
+/* Hakkımızda Footer Alanı: */
+.footer{
+    padding: 30px 0;
+}
+.footer h1{
+   margin-bottom: 25px; /* aynısı =margin: 0 0 25px 0;  */
+}
+.icons{
+    margin: 10px;
+}
+
+.icons .bi{
+    color: red;
+ margin: 0 10px;
+ cursor: pointer;
+ padding: 20px 10px;
+}
+.icons .bi:hover{
+    color: blue;
+transition: all 0.3s;
+cursor: pointer;
+}
+
+/* RESPONSİVE TASARIM  farklı cihazlar için Ekran büyüklüğüne göre piksel ayarlama*/
+@media(max-width:768px){
+    /* max en fazla 768px genişlik. */
+    .nav-links{
+        display: none; /* .nav-links navigasyon elemanlarını 768px altında gizle */
+        
+    }
+ .menu{
+        display:block;/* menü görünür olsun */
+     }
+     .row{
+        display:block;/* elemanlar 768px altında yan yana değil alt alta hizalansın :) */
+     }
+
+.text-box h1{
+    font-size: 30px;
+}
+.ua h1{
+    font-size: 25px;
+}
+}
