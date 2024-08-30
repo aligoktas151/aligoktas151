@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Dear Coders 👨‍💻👩‍💻, I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳🌎</h1>
-<h3 align="center">A passionate frontend developer from Turkey 🇹🇷🇹🇷🇹🇷 (as bayrakları as 👨‍💻🤩🥳)</h3>
+<h3 align="center">A passionate frontend developer from Turkey 🇹🇷🇹🇷🇹🇷 ( Hang the flags& #asbayraklarıas 👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️**
 
-- ⚡<h2> <b> #DOWHATYOULOVE# 👨‍💻🤩🥳🌎</b> </h2> [⚡<h2> <b> WELCOME TO THE #SOFTWAREWORLD </b> </h2>](⚡<h2> <b> WELCOME TO THE #SOFTWAREWORLD </b> </h2>)
+- ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
 
-- 👨‍💻 Best regards :) ☺️😉😎 **I think this will be a lot of fun :)**
+- 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
