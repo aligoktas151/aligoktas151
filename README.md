@@ -2,7 +2,7 @@
 
 <h2> <b>🔭 I'm currently learning Software :) </b> </h2>
 
-🔭I'm also <b> a teacher. That's why I enjoy learning and teaching.  :) </b>
+🔭I'm also <b> a classroom  teacher. :) That's why I enjoy learning and teaching.  :) </b>
 
 🌱 I'm currently learning <b> HTML5, CSS3 and Javascript.</b>
 
