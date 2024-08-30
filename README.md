@@ -15,7 +15,7 @@
 
 - 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️**
 
-- ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
+-<b> ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!) </b>
 
 - 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
 
