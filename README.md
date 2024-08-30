@@ -12,4 +12,4 @@
 
 📫 How can you reach me:✉️ <b> goktas15179@gmail.com </b> ✉️
 
-<b> Best regards :) </b>
+<b> Best regards :) </b>  ☺️😉😎
