@@ -2,7 +2,7 @@ Hello 👋, I'm Ali GÖKTAŞ.(gokt.as79)
 
 🔭 I'm currently learning Software :)
 
-🔭I'm also a teacher. That's why I enjoy learning and teaching.  <:)>
+🔭I'm also a teacher. That's why I enjoy learning and teaching.  <b> :) </b>
 
 🌱 I'm currently learning HTML5, CSS3 and Javascript.
 
