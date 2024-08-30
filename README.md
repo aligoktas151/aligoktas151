@@ -1,4 +1,4 @@
-<h1> <b>Hello 👋, I'm Ali GÖKTAŞ.(gokt.as79)</b></h1>
+<h1> <b>Hello 👋, I'm Ali GÖKTAŞ.(@gokt.as79)</b></h1>
 
 <h2> <b>🔭 I'm currently learning Software :) </b> </h2>
 
