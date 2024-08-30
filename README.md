@@ -4,7 +4,7 @@
 
 🔭I'm also <b> a teacher. That's why I enjoy learning and teaching.  :) </b>
 
-🌱 I'm currently learning HTML5, CSS3 and Javascript.
+🌱 I'm currently learning <b> HTML5, CSS3 and Javascript.</b>
 
 🔮 I want to improve myself in software and current technologies.
 
