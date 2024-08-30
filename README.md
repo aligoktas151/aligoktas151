@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 Dear Coders 👨‍💻👩‍💻, I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳🌎</h1>
+<h1 align="center">Hi 👋 Dear 👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳🌎</h1>
 <h3 align="center">A passionate frontend developer from Turkey! 🇹🇷(Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
 
-- 📄 Know about my experiences: [https://github.com/aligoktas151](https://github.com/aligoktas151)
+- 📄 Know about my experiences: [https://www.instagram.com/gokt.as79/](https://www.instagram.com/gokt.as79/)
 
 - 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)**
 
