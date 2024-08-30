@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Dear Coders 👨‍💻👩‍💻, I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳🌎</h1>
-<h3 align="center">A passionate frontend developer from Turkey 🇹🇷 (🇹🇷Hang the flags& #asbayraklarıas🇹🇷 👨‍💻🤩🥳)</h3>
+<h3 align="center">A passionate frontend developer from Turkey! 🇹🇷(Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️**
 
--<b> ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!) </b>
+- ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
 
 - 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
 
@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/muallim3351s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muallim3351s" height="30" width="40" /></a>
 <a href="https://instagram.com/gokt.as79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokt.as79" height="30" width="40" /></a>
-<a href="https://medium.com/@goktas15179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@goktas15179" height="30" width="40" /></a>
+<a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yazılımfırtınası33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yazılımfırtınası33" height="30" width="40" /></a>
 </p>
 
