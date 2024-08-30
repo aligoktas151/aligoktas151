@@ -1,14 +1,12 @@
-<h1> Project1: Udemig_School Project</h1>
+Hello 👋, I'm Ali GÖKTAŞ.(gokt.as79)
 
-This school project is a social project that provides communication and 
+🔭 I'm currently learning Software :) 🌱 I'm currently learning HTML5, CSS3, Java and Javascript.
 
-interaction between students and teachers. It makes learning enjoyable. :)
+🔮 I want to improve myself in software and current technologies.
 
-<h2>Technologies Used in the Project:</h2>
+💬 Ask me questions about HTML5, CSS3, Java and Javascript.
 
-Made with HTML, CSS and HTML5 CSS3.
+📫 How can you reach me: goktas15179@@gmail.com
 
-<h2>Screen.gif</h2>
-
-![](screen.gif) 
+Best regards :)
 
