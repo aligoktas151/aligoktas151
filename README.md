@@ -1,5 +1,6 @@
 <h1> <b>Hello 👋, I'm Ali GÖKTAŞ.(gokt.as79)</b></h1>
-🔭 I'm currently learning Software :)
+
+<b>🔭 I'm currently learning Software :) </b>
 
 🔭I'm also a teacher. That's why I enjoy learning and teaching.  <b> :) </b>
 
