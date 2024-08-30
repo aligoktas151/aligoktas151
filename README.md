@@ -1,4 +1,4 @@
-<h1> <b>Hello 👋 coders 👨‍💻, I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳 </b></h1>
+<h1> <b>Hello 👋 Dear Coders 👨‍💻👩‍💻, I'm Ali GÖKTAŞ.(@gokt.as79) 👨‍💻🤩🥳🌎 </b></h1>
 
 <h2> <b>🔭 I'm currently learning Software 👨‍💻 :) </b> </h2>
 
@@ -12,4 +12,6 @@
 
 📫 How can you reach me:✉️ <b> goktas15179@gmail.com </b> ✉️
 
-<b> Best regards :) </b>  ☺️😉😎
+<b> #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 </b>
+
+<b> Best regards :) </b>  ☺️😉😎 
