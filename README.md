@@ -12,6 +12,6 @@
 
 📫 How can you reach me:✉️ <b> goktas15179@gmail.com </b> ✉️
 
-<b> #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 </b>
+<h2> <b> #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 </b> </h2>
 
 <b> Best regards :) </b>  ☺️😉😎 
