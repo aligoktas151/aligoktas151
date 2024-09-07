@@ -37,7 +37,7 @@
 <a href="https://www.youtube.com/c/@yazılımfırtınası33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yazılımfırtınası33" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/in/ali-göktaş-2a4387254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ali-göktaş-2a4387254" height="30" width="40" /></a>
   <a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
-  <a href="Goktas15179@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Goktas15179@gmail.com" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
