@@ -21,7 +21,7 @@
 - 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
