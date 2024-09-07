@@ -14,8 +14,8 @@
 
 - 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)**
 
-- 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️**
-
+- 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️
+  
 - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
 
 - 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
@@ -30,6 +30,8 @@
 <a href="https://instagram.com/gokt.as79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokt.as79" height="30" width="40" /></a>
 <a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yazılımfırtınası33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yazılımfırtınası33" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/in/ali-göktaş-2a4387254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ali-göktaş-2a4387254" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=61562344374438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61562344374438" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
