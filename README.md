@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, Dear  👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ.(@gokt.as79)  👨‍💻🤩🥳🌎</h1>
 
-<h3 align="center">A passionate <b>Full Stack Developer</b>  from Turkey! 🇹🇷(Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
+<h3 align="center">A passionate <b>Full Stack Developer(Frontend&Backend Developer 👨‍💻 React&React Native Developer)  from 🇹🇷 Turkey! 🇹🇷</b>  (Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
 
@@ -8,30 +8,35 @@
 
 <p align="left"> <a href="https://twitter.com/muallim3351s" target="blank"><img src="https://img.shields.io/twitter/follow/muallim3351s?logo=twitter&style=for-the-badge" alt="muallim3351s" /></a> </p>
 
+🔭 I’m currently working on Javascript, React.Js, HTML, HTML5, CSS3, CSS, BS, SASS, SCSS and TS ; :) 🔭
+
+🌱 I’m currently learning NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND REACT NATIVE MOBILE; :) 🌱
+
 - 👨‍💻 All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
 
 - 📄 Know about my experiences: [https://www.instagram.com/gokt.as79/](https://www.instagram.com/gokt.as79/)
 
-- 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)**
 
-- 📫 How to reach me:👨‍💻 **✉️ goktas15179@gmail.com ✉️
+- 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)
+
+- 📫 How to reach me:👨‍💻 ✉️ goktas15179@gmail.com ✉️
   
-- ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
+<B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
 - 👨‍💻 Best Regards :) **I think this will be a lot of fun 👨‍💻☺️😉😎**
 
-### Blogs&Posts:
+### 💬 Blogs&Posts: 💬 
 <!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/muallim3351s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muallim3351s" height="30" width="40" /></a>
-<a href="https://instagram.com/gokt.as79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokt.as79" height="30" width="40" /></a>
-<a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
+  <a href="https://fb.com/https://www.facebook.com/profile.php?id=61562344374438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61562344374438" height="30" width="40" /></a>
+  <a href="https://instagram.com/gokt.as79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gokt.as79" height="30" width="40" /></a>
+  <a href="https://twitter.com/muallim3351s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muallim3351s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yazılımfırtınası33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yazılımfırtınası33" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/in/ali-göktaş-2a4387254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ali-göktaş-2a4387254" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61562344374438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61562344374438" height="30" width="40" /></a>
+  <a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
