@@ -1,6 +1,6 @@
 <h1 align="center">Hi👋, Dear  👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ.(@gokt.as79)  👨‍💻🤩🥳🌎</h1>
 
-<h3 align="center">A passionate frontend developer from Turkey! 🇹🇷(Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
+<h3 align="center">A passionate <b>Full Stack Developer</b>  from Turkey! 🇹🇷(Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
 
