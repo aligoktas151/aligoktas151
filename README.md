@@ -23,7 +23,7 @@
   
 <B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
-- 👨‍💻 Best Regards :) **I think this will be a lot of fun 👨‍💻☺️😉😎**
+- 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎👨‍💻**
 
 ### 💬 Blogs&Posts: 💬 
 <!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
