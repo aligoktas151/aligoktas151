@@ -18,9 +18,9 @@
   
 - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)
 
-- 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎**
+- 👨‍💻 Best Regards :) **I think this will be a lot of fun 👨‍💻☺️😉😎**
 
-### Blogs posts
+### Blogs&Posts:
 <!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
 <!-- BLOG-POST-LIST:END -->
 
