@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋, Dear  👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ.(@gokt.as79)  👨‍💻🤩🥳🌎</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />, Dear  👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ.(@gokt.as79)  👨‍💻🤩🥳🌎</h1>
 
 <h3 align="center">A passionate <b>Full Stack Developer(Frontend&Backend Developer 👨‍💻 React&React Native Developer)  from 🇹🇷 Turkey! 🇹🇷</b>  (Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
 
