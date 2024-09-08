@@ -1,31 +1,27 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Dear  👨‍💻Coders👩‍💻; I'm Ali GÖKTAŞ <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" /> (@gokt.as79) 🤩🥳🌎</h1>
 
-<h3 align="center">A passionate <b>Full Stack Developer(Frontend&Backend Developer 👨‍💻 React&React Native Developer)  from 🇹🇷 Turkey! 🇹🇷</b>  (Hang the flags&🇹🇷#asbayraklarıas#🇹🇷 👨‍💻🤩🥳)</h3>
+<h3 align="center">A passionate <b>Full Stack Developer(Frontend&Backend Developer 👨‍💻 React&React Native Developer)  from 🇹🇷 Turkey! 🇹🇷</b>  (Hang the flags&🇹🇷#asbayraklarıas#🇹🇷👨‍💻🤩🥳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aligoktas151&label=Profile%20views&color=0e75b6&style=flat" alt="aligoktas151" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aligoktas151" alt="aligoktas151" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muallim3351s" target="blank"><img src="https://img.shields.io/twitter/follow/muallim3351s?logo=twitter&style=for-the-badge" alt="muallim3351s" /></a> 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goktas15179@gmail.com)
-</p>
-
 🔭 I’m currently working on Javascript, React.Js, HTML, HTML5, CSS3, CSS, BS, SASS, SCSS and TS ; :) 🔭
 
 🌱 I’m currently learning NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND REACT NATIVE MOBILE; :) 🌱
 
-- 👨‍💻 All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
+- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
 
 - 📄 Know about my experiences: [https://www.instagram.com/gokt.as79/](https://www.instagram.com/gokt.as79/)
 
 
 - 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)
 
-- 📫 How to reach me:👨‍💻 ✉️ goktas15179@gmail.com ✉️
+- 📫 How to reach me:<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> ✉️ goktas15179@gmail.com ✉️
   
 <B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
-- 👨‍💻 Best Regards :) **I think this will be a lot of fun ☺️😉😎👨‍💻**
+- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Best Regards :) **I think this will be a lot of fun ☺️😉😎<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />�**
 
 ### 💬 Blogs&Posts: 💬 
 <!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
