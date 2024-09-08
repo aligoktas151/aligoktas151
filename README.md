@@ -21,10 +21,10 @@
   
 <B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" />🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Best Regards :) **I think this will be a lot of fun ☺️😉😎<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />**
+❤️ Best Regards :) **I think this will be a lot of fun ❤️☺️😉😎🤩🥳🌎
 
 ### 💬 Blogs&Posts: 💬 
-<!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
+<!-- BLOG-POST-LIST:START --> <a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -34,7 +34,6 @@
   <a href="https://twitter.com/muallim3351s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muallim3351s" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@yazılımfırtınası33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@yazılımfırtınası33" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/in/ali-göktaş-2a4387254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ali-göktaş-2a4387254" height="30" width="40" /></a>
-  <a href="https://medium.com/@aligoktas151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aligoktas151" height="30" width="40" /></a>
   
 </p>
 
