@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aligoktas151" alt="aligoktas151" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/muallim3351s" target="blank"><img src="https://img.shields.io/twitter/follow/muallim3351s?logo=twitter&style=for-the-badge" alt="muallim3351s" /></a> </p>
+<p align="left"> <a href="https://twitter.com/muallim3351s" target="blank"><img src="https://img.shields.io/twitter/follow/muallim3351s?logo=twitter&style=for-the-badge" alt="muallim3351s" /></a> 
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goktas15179@gmail.com)
+</p>
 
 🔭 I’m currently working on Javascript, React.Js, HTML, HTML5, CSS3, CSS, BS, SASS, SCSS and TS ; :) 🔭
 
