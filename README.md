@@ -21,7 +21,7 @@
   
 <B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" />🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Best Regards :) **I think this will be a lot of fun ☺️😉😎<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />�**
+- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Best Regards :) **I think this will be a lot of fun ☺️😉😎<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />**
 
 ### 💬 Blogs&Posts: 💬 
 <!-- BLOG-POST-LIST:START --> https://medium.com/@aligoktas151
