@@ -10,16 +10,16 @@
 
 🌱 I’m currently learning NEXT.JS, EXPRESS.JS, NODE.JS, MONGO.DB AND REACT NATIVE MOBILE; :) 🌱
 
-- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
+- <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" />  All of my projects are available at: [https://github.com/aligoktas151](https://github.com/aligoktas151)
 
 - 📄 Know about my experiences: [https://www.instagram.com/gokt.as79/](https://www.instagram.com/gokt.as79/)
 
 
 - 💬 Ask me questions about: 🙋 💬 **HTML5, CSS3 and Javascript.:)
 
-- 📫 How to reach me:<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> ✉️ goktas15179@gmail.com ✉️
+- 📫 How to reach me:<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" /> ✉️ goktas15179@gmail.com ✉️
   
-<B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# 👨‍💻🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
+<B> - ⚡ ❤️Believe In Yourself❤️ & #DOWHATYOULOVE# <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/man-technologist.gif" height="50" width="50" align="center" />🤩🥳🌎 [⚡ WELCOME TO THE #SOFTWAREWORLD!](⚡ WELCOME TO THE #SOFTWAREWORLD!)</B>
 
 - <img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" /> Best Regards :) **I think this will be a lot of fun ☺️😉😎<img src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/waving-hand.gif" height="50" width="50" align="center" />�**
 
