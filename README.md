@@ -47,6 +47,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aligoktas151&" alt="aligoktas151" /></p>
 <p>  <h2>An Example Project:Screen gif:</h2> </p>
 
-![](screencar2.gif) 
+![](screencar2.gif)
+ 
 
 
